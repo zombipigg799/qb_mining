@@ -1,0 +1,2 @@
+# qb_mining
+Script
