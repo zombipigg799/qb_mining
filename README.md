@@ -3,7 +3,8 @@ Script
 --------------
 Credit to: https://github.com/jimathy/jim-mining
 ____________________
-ADD to qb_core/shared/items
+Installation:
+Add to qb-core/shared/items.lua:
 
 	-- jim-mining stuff
 ["stone"] 		 	 			 = {["name"] = "stone",           				["label"] = "Stone",	 				["weight"] = 2000, 	    ["type"] = "item", 		["image"] = "stone.png", 				["unique"] = false, 	["useable"] = false, 	["shouldClose"] = false, ["combinable"] = nil,   ["description"] = "Stone woo"},
